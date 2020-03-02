@@ -1,3 +1,3 @@
-# Your blog
+# 时间静止不是简史的博客
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+同步自csdn, 用户名: 时间静止不是简史,欢迎大家关注!!! 共同学习,共同进步哦~~~
